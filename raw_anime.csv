@@ -1,0 +1,501 @@
+Title,Episodes,Rating,Status,Genre,Studio,is_outlier
+Sousou no Frieren,28,terrible,Finished Airing,,Studio B,FALSE
+Fullmetal Alchemist: Brotherhood,,excellent,Finished Airing,Comedy,Studio A,TRUE
+Steins;Gate,24,9.07,Finished Airing,Romance,Studio B,FALSE
+Shingeki no Kyojin Season 3 Part 2,10,9.05,Finished Airing,Romance,Studio C,FALSE
+Gintama°,,9.05,Finished Airing,Fantasy,Studio C,FALSE
+Gintama: The Final,1,9.05,Finished Airing,Romance,Studio B,FALSE
+One Piece Fan Letter,1,pending,Finished Airing,Sci-Fi,Studio A,FALSE
+Hunter x Hunter (2011),148,,Finished Airing,Sci-Fi,Studio D,TRUE
+Gintama',51,9.02,Finished Airing,Fantasy,Studio A,FALSE
+Gintama': Enchousen,13,9.02,Finished Airing,Comedy,Studio A,FALSE
+Ginga Eiyuu Densetsu,110,9.02,Finished Airing,Comedy,Studio D,TRUE
+Bleach: Sennen Kessen-hen,13,8.99,Finished Airing,Sci-Fi,Studio C,FALSE
+Gintama.,12,8.98,Finished Airing,Sci-Fi,Studio A,FALSE
+Kaguya-sama wa Kokurasetai: Ultra Romantic,13,8.97,Finished Airing,Sci-Fi,Studio B,FALSE
+Fruits Basket: The Final,13,8.95,Finished Airing,Fantasy,Studio C,FALSE
+Clannad: After Story,24,8.93,Finished Airing,Romance,Studio C,FALSE
+Gintama,201,bad,Finished Airing,Comedy,Studio B,TRUE
+Koe no Katachi,1,8.93,Finished Airing,Sci-Fi,Studio A,FALSE
+Kusuriya no Hitorigoto 2nd Season,24,8.92,Finished Airing,Comedy,Studio B,FALSE
+Code Geass: Hangyaku no Lelouch R2,25,8.91,Finished Airing,Action,Studio B,FALSE
+3-gatsu no Lion 2nd Season,22,8.9,Finished Airing,Action,Studio C,FALSE
+Gintama Movie 2: Kanketsu-hen - Yorozuya yo Eien Nare,1,8.9,Finished Airing,Sci-Fi,Studio D,FALSE
+Takopii no Genzai,6,8.89,Finished Airing,Comedy,Studio B,FALSE
+Monster,74,8.89,Finished Airing,Sci-Fi,Studio D,TRUE
+Gintama. Shirogane no Tamashii-hen - Kouhan-sen,14,8.88,Finished Airing,Action,Studio C,FALSE
+Kusuriya no Hitorigoto,24,8.86,Finished Airing,Fantasy,Studio D,FALSE
+Shingeki no Kyojin: The Final Season - Kanketsu-hen,2,8.86,Finished Airing,Comedy,Studio D,FALSE
+Owarimonogatari 2nd Season,7,8.86,Finished Airing,Sci-Fi,Studio A,FALSE
+Violet Evergarden Movie,1,8.84,Finished Airing,Comedy,Studio B,FALSE
+Shingeki no Kyojin Movie: Kanketsu-hen - The Last Attack,1,8.83,Finished Airing,Comedy,Studio D,FALSE
+Kingdom 3rd Season,26,8.83,Finished Airing,Drama,Studio D,FALSE
+Kimi no Na wa.,1,8.83,Finished Airing,Comedy,Studio D,FALSE
+Vinland Saga Season 2,24,8.82,Finished Airing,Action,Studio C,FALSE
+Gintama. Shirogane no Tamashii-hen,12,8.81,Finished Airing,Fantasy,Studio A,FALSE
+Kimetsu no Yaiba Movie: Mugen Jou-hen,3,8.79,Currently Airing,Comedy,Studio A,FALSE
+Mob Psycho 100 II,13,8.78,Finished Airing,Comedy,Studio B,FALSE
+Kizumonogatari III: Reiketsu-hen,1,8.78,Finished Airing,Horror,Studio C,FALSE
+Shingeki no Kyojin: The Final Season,16,8.78,Finished Airing,,Studio D,FALSE
+Hajime no Ippo,75,8.78,Finished Airing,Comedy,Studio D,TRUE
+Haikyuu!! Karasuno Koukou vs. Shiratorizawa Gakuen Koukou,10,8.77,Finished Airing,Fantasy,,FALSE
+Vinland Saga,24,,Finished Airing,Comedy,Studio A,FALSE
+Sen to Chihiro no Kamikakushi,1,8.77,Finished Airing,Action,Studio A,FALSE
+Shingeki no Kyojin: The Final Season Part 2,12,8.77,Finished Airing,Horror,Studio A,FALSE
+Ashita no Joe 2,,8.76,Finished Airing,,Studio C,FALSE
+Monogatari Series: Second Season,26,8.76,Finished Airing,,Studio B,FALSE
+Alien Stage,12,8.75,Finished Airing,Drama,Studio B,FALSE
+Bocchi the Rock!,12,8.75,Finished Airing,Drama,Studio B,FALSE
+Cowboy Bebop,,8.75,Finished Airing,Action,Studio A,FALSE
+Boku no Kokoro no Yabai Yatsu 2nd Season,13,,Finished Airing,Romance,Studio D,FALSE
+Kaguya-sama wa Kokurasetai: First Kiss wa Owaranai,1,8.73,Finished Airing,Comedy,Studio B,FALSE
+Kingdom 4th Season,26,8.73,Finished Airing,Romance,Studio B,FALSE
+Jujutsu Kaisen 2nd Season,23,8.73,Finished Airing,Horror,Studio A,FALSE
+One Piece,12,8.73,Currently Airing,Comedy,,FALSE
+Kaoru Hana wa Rin to Saku,13,TBD,Currently Airing,Fantasy,Studio A,FALSE
+Idol,1,8.72,Finished Airing,,Studio A,FALSE
+Kingdom 5th Season,13,8.72,Finished Airing,Comedy,Studio D,FALSE
+Hibike! Euphonium 3,13,8.72,Finished Airing,Fantasy,Studio A,FALSE
+Mushishi Zoku Shou 2nd Season,10,8.72,Finished Airing,Sci-Fi,Studio D,FALSE
+The First Slam Dunk,1,8.72,Finished Airing,Horror,Studio C,FALSE
+Shiguang Dailiren,11,8.72,Finished Airing,Fantasy,Studio A,FALSE
+86 Part 2,12,8.72,Finished Airing,,Studio B,FALSE
+Chi. Chikyuu no Undou ni Tsuite,25,8.71,Finished Airing,Sci-Fi,Studio C,FALSE
+Mob Psycho 100 III,12,8.71,Finished Airing,Comedy,Studio D,FALSE
+Kimetsu no Yaiba: Yuukaku-hen,11,8.71,Finished Airing,Horror,Studio A,FALSE
+Bleach: Sennen Kessen-hen - Ketsubetsu-tan,13,8.7,Finished Airing,Sci-Fi,Studio B,FALSE
+Shouwa Genroku Rakugo Shinjuu: Sukeroku Futatabi-hen,12,8.7,Finished Airing,Horror,Studio B,FALSE
+Code Geass: Hangyaku no Lelouch,25,8.7,Finished Airing,Romance,Studio A,FALSE
+Violet Evergarden,13,,Finished Airing,Horror,Studio B,FALSE
+Rurouni Kenshin: Meiji Kenkaku Romantan - Tsuioku-hen,4,8.69,Finished Airing,Horror,Studio D,FALSE
+Mushishi Zoku Shou,10,8.68,Finished Airing,Romance,Studio B,FALSE
+Great Teacher Onizuka,43,?,Finished Airing,Comedy,Studio B,FALSE
+Mo Dao Zu Shi: Wanjie Pian,12,8.68,Finished Airing,Action,Studio D,FALSE
+Grand Blue Season 2,12,8.67,Currently Airing,Comedy,Studio A,FALSE
+Bleach: Sennen Kessen-hen - Soukoku-tan,14,8.67,Finished Airing,Drama,Studio D,FALSE
+Hajime no Ippo: New Challenger,26,8.67,Finished Airing,Action,Studio D,FALSE
+Howl no Ugoku Shiro,1,8.67,Finished Airing,Romance,Studio C,FALSE
+Mononoke Hime,1,8.67,Finished Airing,Sci-Fi,Studio B,FALSE
+Ore dake Level Up na Ken Season 2: Arise from the Shadow,13,8.66,Finished Airing,Fantasy,Studio C,FALSE
+Monogatari Series: Off & Monster Season,12,8.66,Finished Airing,Romance,Studio B,FALSE
+Shiguang Dailiren II,12,8.65,Finished Airing,Romance,Studio D,FALSE
+Mushishi,26,8.65,,,Studio B,FALSE
+Tian Guan Cifu Er,12,8.35,Finished Airing,Sci-Fi,Studio C,FALSE
+Fate/stay night Movie: Heaven's Feel - III. Spring Song,1,?,Finished Airing,Comedy,Studio D,FALSE
+Tengen Toppa Gurren Lagann,27,8.64,Finished Airing,Romance,Studio A,FALSE
+Odd Taxi,13,8.64,Finished Airing,Horror,Studio D,FALSE
+Shigatsu wa Kimi no Uso,22,8.64,Finished Airing,Sci-Fi,Studio C,FALSE
+Shingeki no Kyojin Season 3,12,8.64,Finished Airing,Drama,Studio B,FALSE
+Look Back,1,8.63,Finished Airing,Romance,Studio D,FALSE
+Made in Abyss,13,8.63,Finished Airing,Drama,Studio B,FALSE
+Natsume Yuujinchou Shi,13,unknown,Finished Airing,Romance,Studio B,FALSE
+Mushoku Tensei: Isekai Ittara Honki Dasu Part 2,12,8.63,Finished Airing,Drama,Studio D,FALSE
+Uma Musume: Pretty Derby - Shin Jidai no Tobira,1,8.62,Finished Airing,Action,Studio A,FALSE
+Bungou Stray Dogs 5th Season,11,terrible,Finished Airing,Sci-Fi,Studio C,FALSE
+Kaguya-sama wa Kokurasetai? Tensai-tachi no Renai Zunousen,12,8.62,,Drama,,FALSE
+Ping Pong the Animation,11,8.62,Finished Airing,Sci-Fi,Studio D,FALSE
+Death Note,37,8.62,Finished Airing,Romance,Studio D,FALSE
+Haikyuu!! Second Season,25,8.62,Finished Airing,Comedy,Studio A,FALSE
+Haikyuu!! Movie: Gomisuteba no Kessen,1,8.61,Finished Airing,Action,Studio D,FALSE
+Natsume Yuujinchou Roku,11,8.61,Finished Airing,Comedy,Studio C,FALSE
+Cyberpunk: Edgerunners,10,8.61,Finished Airing,Romance,Studio B,FALSE
+Hajime no Ippo: Rising,25,8.61,Finished Airing,Action,Studio D,FALSE
+Made in Abyss Movie 3: Fukaki Tamashii no Reimei,1,8.35,Finished Airing,Comedy,Studio D,FALSE
+Made in Abyss: Retsujitsu no Ougonkyou,12,8.61,Finished Airing,Sci-Fi,Studio B,FALSE
+Dungeon Meshi,24,8.6,Finished Airing,Romance,Studio C,FALSE
+Tengen Toppa Gurren Lagann Movie 2: Lagann-hen,1,8.6,Finished Airing,Sci-Fi,Studio C,FALSE
+Kenpuu Denki Berserk,25,8.35,Finished Airing,Drama,Studio B,FALSE
+Guimi Zhi Zhu: Xiaochou Pian,13,,Finished Airing,Fantasy,Studio C,FALSE
+Seishun Buta Yarou wa Yumemiru Shoujo no Yume wo Minai,1,8.59,Finished Airing,Action,Studio A,FALSE
+Suzumiya Haruhi no Shoushitsu,1,8.59,Finished Airing,Fantasy,,FALSE
+Shin Evangelion Movie:||,1,8.58,Finished Airing,Drama,,FALSE
+JoJo no Kimyou na Bouken Part 5: Ougon no Kaze,39,8.58,Finished Airing,Romance,Studio B,FALSE
+Mushishi Zoku Shou: Suzu no Shizuku,1,8.35,Finished Airing,Sci-Fi,Studio D,FALSE
+Natsume Yuujinchou Shichi,12,8.57,Finished Airing,Sci-Fi,Studio A,FALSE
+Nana,47,8.57,Finished Airing,,Studio D,FALSE
+[Oshi no Ko],11,8.56,Finished Airing,Comedy,Studio D,FALSE
+Natsume Yuujinchou Go,11,8.56,Finished Airing,Romance,Studio C,FALSE
+Kizumonogatari II: Nekketsu-hen,1,8.56,Finished Airing,Sci-Fi,Studio C,FALSE
+Ookami Kodomo no Ame to Yuki,1,8.56,,Horror,Studio D,FALSE
+Natsume Yuujinchou San,,8.56,Finished Airing,Romance,Studio A,FALSE
+Shingeki no Kyojin,25,8.56,,Fantasy,Studio A,FALSE
+Doupo Cangqiong: San Nian Zhi Yue,13,8.56,Finished Airing,Horror,Studio C,FALSE
+Haikyuu!! To the Top Part 2,,8.56,Finished Airing,Action,Studio D,FALSE
+"Shinseiki Evangelion Movie: Air/Magokoro wo, Kimi ni",1,8.56,Finished Airing,Drama,Studio C,FALSE
+Uma Musume: Cinderella Gray,13,8.55,Finished Airing,Fantasy,Studio A,FALSE
+[Oshi no Ko] 2nd Season,13,8.55,Finished Airing,Horror,Studio B,FALSE
+Shouwa Genroku Rakugo Shinjuu,,average,Finished Airing,Fantasy,Studio B,FALSE
+Kimi no Suizou wo Tabetai,1,8.55,Finished Airing,Fantasy,Studio C,FALSE
+Yojouhan Shinwa Taikei,11,8.55,Finished Airing,Horror,Studio D,FALSE
+Perfect Blue,1,8.55,Finished Airing,Comedy,Studio B,FALSE
+Slam Dunk,101,8.55,Finished Airing,Fantasy,Studio D,TRUE
+Kimetsu no Yaiba Movie: Mugen Ressha-hen,1,,Finished Airing,Horror,Studio D,FALSE
+Steins;Gate 0,23,8.54,Finished Airing,Horror,Studio D,FALSE
+Fate/Zero 2nd Season,12,8.54,Finished Airing,Action,Studio D,FALSE
+Jujutsu Kaisen,24,average,Finished Airing,Fantasy,Studio A,FALSE
+Dandadan 2nd Season,12,8.53,Currently Airing,Action,Studio B,FALSE
+Shingeki no Kyojin Season 2,12,8.53,Finished Airing,Romance,Studio A,FALSE
+Zoku Natsume Yuujinchou,13,,,Sci-Fi,Studio A,FALSE
+Hotaru no Haka,1,8.53,Finished Airing,Sci-Fi,Studio B,FALSE
+Fruits Basket 2nd Season,25,,Finished Airing,Sci-Fi,Studio B,FALSE
+JoJo no Kimyou na Bouken Part 6: Stone Ocean Part 3,14,8.52,Finished Airing,Fantasy,Studio B,FALSE
+Mushishi: Hihamukage,1,8.52,Finished Airing,Romance,Studio C,FALSE
+Gintama Movie 1: Shinyaku Benizakura-hen,1,8.52,Finished Airing,Fantasy,Studio D,FALSE
+Bakuman. 3rd Season,25,average,Finished Airing,,Studio A,FALSE
+Samurai Champloo,26,8.52,Finished Airing,Fantasy,,FALSE
+Kara no Kyoukai Movie 5: Mujun Rasen,1,5 stars,Finished Airing,Sci-Fi,Studio A,FALSE
+Gintama. Porori-hen,13,8.51,Finished Airing,Sci-Fi,Studio D,FALSE
+Koukaku Kidoutai: Stand Alone Complex 2nd GIG,26,8.51,Finished Airing,Comedy,Studio A,FALSE
+Shoujo☆Kageki Revue Starlight Movie,,8.51,Finished Airing,Comedy,Studio C,FALSE
+Yuru Camp△ Season 2,13,8.35,Finished Airing,,Studio A,FALSE
+Sora yori mo Tooi Basho,13,8.5,Finished Airing,Fantasy,Studio A,FALSE
+JoJo no Kimyou na Bouken Part 4: Diamond wa Kudakenai,39,8.5,Finished Airing,Romance,Studio B,FALSE
+Nezha Zhi Mo Tong Nao Hai,1,8.49,Finished Airing,Comedy,Studio C,FALSE
+Mahou Shoujo Madoka,★Magica Movie 3: Hangyaku no Monogatari1,8.49,Finished Airing,Sci-Fi,Studio B,FALSE
+Mob Psycho 100,12,8.49,Finished Airing,Action,Studio A,FALSE
+Tian Guan Cifu Special,1,8.49,Finished Airing,Sci-Fi,Studio A,FALSE
+Ousama Ranking,23,8.49,Finished Airing,Comedy,Studio B,FALSE
+Dandadan,12,8.48,Finished Airing,Horror,Studio B,FALSE
+Yakusoku no Neverland,12,8.48,Finished Airing,Sci-Fi,Studio C,FALSE
+Uchuu Kyoudai,99,8.48,Finished Airing,Horror,Studio B,TRUE
+One Punch Man,12,,Finished Airing,Horror,Studio A,FALSE
+Fate/stay night Movie: Heaven's Feel - II. Lost Butterfly,12,8.47,Finished Airing,Sci-Fi,Studio B,FALSE
+Ansatsu Kyoushitsu 2nd Season,25,8.47,Finished Airing,Romance,Studio C,FALSE
+Aria the Origination,13,8.47,Finished Airing,Romance,Studio B,FALSE
+Summertime Render,25,8.47,Finished Airing,Action,Studio B,FALSE
+Nichijou,26,8.47,Finished Airing,Comedy,Studio D,FALSE
+Tian Guan Cifu Short Film,12,8.46,Currently Airing,Sci-Fi,Studio B,FALSE
+Kimi ni Todoke 3rd Season,5,8.46,Finished Airing,Fantasy,Studio C,FALSE
+Mo Dao Zu Shi: Xian Yun Pian,8,8.46,Finished Airing,Horror,Studio A,FALSE
+Mo Dao Zu Shi,15,8.46,Finished Airing,Horror,Studio B,FALSE
+Rainbow: Nisha Rokubou no Shichinin,26,8.46,Finished Airing,Horror,Studio B,FALSE
+Gintama: The Semi-Final,2,8.46,Finished Airing,Drama,Studio A,FALSE
+Yuu☆Yuu☆Hakusho,112,8.46,Finished Airing,Sci-Fi,Studio C,TRUE
+Given Movie 3: Umi e,,8.45,Finished Airing,Comedy,,FALSE
+Tu Bian Yingxiong X,24,8.45,Currently Airing,Romance,Studio A,FALSE
+Pluto,8,8.35,Finished Airing,Sci-Fi,Studio C,FALSE
+Owarimonogatari,12,8.45,Finished Airing,Comedy,Studio D,FALSE
+Steins;Gate Movie: Fuka Ryouiki no Déjà vu,1,8.45,Finished Airing,,Studio B,FALSE
+Banana Fish,24,8.45,Finished Airing,Comedy,Studio A,FALSE
+Spy x Family,12,8.45,Finished Airing,Action,Studio B,FALSE
+Chihayafuru 3,24,8.45,Finished Airing,Sci-Fi,Studio A,FALSE
+Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season,16,,Finished Airing,Drama,Studio A,FALSE
+JoJo no Kimyou na Bouken Part 3: Stardust Crusaders - Egypt-hen,24,8.44,Finished Airing,Sci-Fi,Studio C,FALSE
+Chainsaw Man,12,8.44,Finished Airing,Action,Studio D,FALSE
+Grand Blue,12,8.44,Finished Airing,Fantasy,Studio C,FALSE
+Doupo Cangqiong: Nian Fan,209,8.44,Currently Airing,Romance,Studio A,TRUE
+Zoku Owarimonogatari,6,8.43,Finished Airing,Fantasy,Studio D,FALSE
+Hunter x Hunter,62,8.43,Finished Airing,Fantasy,Studio C,TRUE
+Kimetsu no Yaiba,12,8.43,Finished Airing,Horror,Studio B,FALSE
+Haikyuu!!,25,8.43,Finished Airing,Fantasy,Studio C,FALSE
+Golden Kamuy 3rd Season,12,good,Finished Airing,Fantasy,Studio A,FALSE
+Mushishi Zoku Shou: Odoro no Michi,1,8.42,Finished Airing,Action,Studio B,FALSE
+Natsume Yuujinchou Movie: Utsusemi ni Musubu,1,8.42,Finished Airing,Romance,Studio C,FALSE
+Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season Part 2,12,8.42,Finished Airing,Romance,Studio A,FALSE
+Kono Oto Tomare! Part 2,13,8.42,Finished Airing,Sci-Fi,Studio C,FALSE
+Gintama: Yorinuki Gintama-san on Theater 2D,,8.42,Finished Airing,Drama,Studio B,FALSE
+Karakai Jouzu no Takagi-san Movie,1,8.42,Finished Airing,Sci-Fi,,FALSE
+Koukaku Kidoutai: Stand Alone Complex,26,,Finished Airing,Horror,Studio B,FALSE
+Bungou Stray Dogs 4th Season,13,8.42,Finished Airing,Sci-Fi,Studio B,FALSE
+Violet Evergarden Gaiden: Eien to Jidou Shuki Ningyou,1,8.42,Finished Airing,,Studio D,FALSE
+Wu Liuqi: Xuanwu Guo Pian,10,8.42,Finished Airing,Action,Studio B,FALSE
+Mushoku Tensei II: Isekai Ittara Honki Dasu Part 2,12,,Finished Airing,Romance,Studio D,FALSE
+Saiki Kusuo no Ψ-nan,120,8.41,Finished Airing,Action,Studio B,TRUE
+Saiki Kusuo no Ψ-nan 2,24,8.41,,Drama,Studio D,FALSE
+Shingeki no Kyojin: Kuinaki Sentaku,2,8.41,Finished Airing,Action,Studio C,FALSE
+Tian Guan Cifu,11,8.41,Finished Airing,Sci-Fi,Studio D,FALSE
+Mononoke,12,8.41,Finished Airing,Drama,Studio D,FALSE
+Saenai Heroine no Sodatekata Fine,1,8.41,Finished Airing,Fantasy,Studio C,FALSE
+Kono Subarashii Sekai ni Shukufuku wo! Movie: Kurenai Densetsu,1,N/A,Finished Airing,Romance,Studio D,FALSE
+Natsume Yuujinchou Roku Specials,2,8.4,Finished Airing,Sci-Fi,Studio C,FALSE
+Jujutsu Kaisen 0 Movie,1,bad,Finished Airing,Drama,Studio A,FALSE
+Kamisama Hajimemashita: Kako-hen,4,8.4,Finished Airing,Fantasy,Studio C,FALSE
+Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen,12,8.4,Finished Airing,Horror,Studio B,FALSE
+Road of Naruto,1,?,Finished Airing,Comedy,Studio C,FALSE
+Sayonara no Asa ni Yakusoku no Hana wo Kazarou,1,8.39,Finished Airing,Horror,Studio C,FALSE
+Ramayana: The Legend of Prince Rama,1,not rated,Finished Airing,Drama,Studio D,FALSE
+Houseki no Kuni,12,8.39,Finished Airing,Sci-Fi,Studio B,FALSE
+Major S5,25,8.39,Finished Airing,Sci-Fi,Studio D,FALSE
+Blue Giant,1,8.39,Finished Airing,Horror,Studio D,FALSE
+Tunshi Xingkong 3rd Season,33,8.38,Finished Airing,Fantasy,Studio D,FALSE
+Violet Evergarden: Recollections,1,8.38,Finished Airing,Comedy,Studio A,FALSE
+Sono Bisque Doll wa Koi wo Suru Season 2,12,8.38,Currently Airing,Romance,Studio D,FALSE
+Made in Abyss Movie 2: Hourou Suru Tasogare,1,8.38,Finished Airing,Drama,Studio C,FALSE
+Kaze ga Tsuyoku Fuiteiru,23,8.38,Finished Airing,,Studio C,FALSE
+Vivy: Fluorite Eye's Song,13,8.38,,Action,Studio D,FALSE
+Josee to Tora to Sakana-tachi,1,8.38,Finished Airing,Comedy,Studio A,FALSE
+Mahou Shoujo Madoka,★Magica12,pending,Finished Airing,Action,Studio A,FALSE
+Gintama°: Aizome Kaori-hen,2,8.38,Finished Airing,Drama,Studio D,FALSE
+Cowboy Bebop: Tengoku no Tobira,1,8.38,Finished Airing,Sci-Fi,Studio B,FALSE
+Yuru Camp△ Movie,1,,Finished Airing,Comedy,Studio A,FALSE
+Xian Ni,2031,8.37,Currently Airing,Action,Studio C,TRUE
+Medalist,13,8.37,Finished Airing,Fantasy,Studio B,FALSE
+Girls Band Cry,13,8.37,Finished Airing,Horror,Studio D,FALSE
+Kara no Kyoukai Movie 7: Satsujin Kousatsu (Go),1,8.37,Finished Airing,Fantasy,Studio B,FALSE
+Cross Game,50,8.37,Finished Airing,Horror,Studio A,FALSE
+3-gatsu no Lion,22,8.37,Finished Airing,Comedy,Studio C,FALSE
+Mahou Shoujo Madoka,★Magica Movie 2: Eien no Monogatari1,8.37,Finished Airing,Sci-Fi,Studio D,FALSE
+Fruits Basket: Prelude,1,8.37,Finished Airing,,Studio C,FALSE
+Haikyuu!! To the Top,13,TBD,Finished Airing,Fantasy,Studio B,FALSE
+Karakai Jouzu no Takagi-san 3,12,8.37,Finished Airing,Horror,Studio B,FALSE
+Chihayafuru 2,25,8.37,Finished Airing,Drama,Studio D,FALSE
+Barakamon,12,8.37,Finished Airing,Drama,Studio D,FALSE
+Tunshi Xingkong 4th Season,123,8.36,Currently Airing,Romance,Studio D,TRUE
+K-On! Movie,1,8.36,,Horror,Studio B,FALSE
+Girls & Panzer: Saishuushou Part 4,1,,Finished Airing,Comedy,Studio D,FALSE
+Kizumonogatari I: Tekketsu-hen,1,,Finished Airing,Horror,Studio B,FALSE
+Gintama: Shiroyasha Koutan,1,8.36,,Horror,Studio C,FALSE
+Initial D First Stage,26,8.35,Finished Airing,Action,Studio B,FALSE
+Shinseiki Evangelion,26,8.36,Finished Airing,Drama,Studio C,FALSE
+Meitantei Conan Movie 26: Kurogane no Submarine,1,8.35,Finished Airing,Fantasy,Studio C,FALSE
+Yahari Ore no Seishun Love Comedy wa Machigatteiru. Kan,12,8.35,Finished Airing,,Studio C,FALSE
+Non Non Biyori Nonstop,12,8.35,Finished Airing,Drama,Studio D,FALSE
+Kono Subarashii Sekai ni Shukufuku wo! 3,11,8.35,Finished Airing,Fantasy,Studio A,FALSE
+Kaze no Tani no Nausicaä,1,8.35,Finished Airing,Comedy,Studio D,FALSE
+Baccano!,13,8.35,Finished Airing,Romance,Studio A,FALSE
+Versailles no Bara,,8.35,Finished Airing,Fantasy,Studio A,FALSE
+Mushoku Tensei: Isekai Ittara Honki Dasu,11,bad,Finished Airing,Drama,Studio A,FALSE
+"Violet Evergarden: Kitto ""Ai"" wo Shiru Hi ga Kuru no Darou",1,8.35,Finished Airing,Horror,Studio A,FALSE
+Kimetsu no Yaiba: Mugen Ressha-hen,7,8.35,Finished Airing,Drama,,FALSE
+Tensei shitara Slime Datta Ken 2nd Season,12,8.35,Finished Airing,Fantasy,Studio C,FALSE
+Douluo Dalu 2nd Season,237,8.35,Finished Airing,Horror,Studio D,TRUE
+Chiikawa,12,8.34,Currently Airing,Comedy,Studio C,FALSE
+Ashita no Joe,79,8.34,Finished Airing,Horror,Studio B,TRUE
+Hibike! Euphonium 2,13,bad,Finished Airing,Comedy,Studio A,FALSE
+Fumetsu no Anata e,20,8.34,,Comedy,Studio A,FALSE
+IDOLiSH7 Third Beat! Part 2,17,8.34,Finished Airing,Fantasy,Studio B,FALSE
+Hellsing Ultimate,10,8.34,Finished Airing,Action,Studio B,FALSE
+Bocchi the Rock! Movie,2,8.33,,Romance,Studio C,FALSE
+Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season,13,8.33,Finished Airing,Romance,Studio B,FALSE
+86,11,8.33,Finished Airing,Fantasy,Studio D,FALSE
+Psycho-Pass,22,8.33,Finished Airing,Romance,Studio A,FALSE
+Wu Shan Wu Xing: Xichuan Huan Zi Lin,4,8.33,Finished Airing,Sci-Fi,Studio D,FALSE
+Bakuman. 2nd Season,25,8.33,Finished Airing,Horror,Studio C,FALSE
+Natsume Yuujinchou: Itsuka Yuki no Hi ni,1,8.33,Finished Airing,Romance,Studio C,FALSE
+Kidou Senshi Gundam: The Origin,6,8.32,Finished Airing,Fantasy,Studio A,FALSE
+Fate/stay night: Unlimited Blade Works 2nd Season,13,8.32,Finished Airing,Action,Studio B,FALSE
+One Outs,25,8.32,Finished Airing,Horror,Studio C,FALSE
+Bakemonogatari,15,8.32,Finished Airing,Sci-Fi,Studio A,FALSE
+Kiseijuu: Sei no Kakuritsu,24,8.32,Finished Airing,Drama,Studio D,FALSE
+Tunshi Xingkong 2nd Season,26,8.32,Finished Airing,Sci-Fi,Studio D,FALSE
+Usagi Drop,11,8.32,Finished Airing,Action,Studio A,FALSE
+Yoru ni Kakeru,1,8.32,Finished Airing,Action,Studio C,FALSE
+Ginga Eiyuu Densetsu: Die Neue These - Gekitotsu,12,excellent,Finished Airing,Sci-Fi,Studio C,FALSE
+Shiguang Dailiren: Yingdu Pian,6,8.31,Finished Airing,Fantasy,Studio C,FALSE
+Dr. Stone: New World Part 2,11,8.31,Finished Airing,Comedy,Studio D,FALSE
+Seishun Buta Yarou wa Randoseru Girl no Yume wo Minai,1,8.31,Finished Airing,Fantasy,Studio B,FALSE
+Ginga Eiyuu Densetsu: Die Neue These - Sakubou,12,8.31,Finished Airing,Romance,Studio D,FALSE
+Sasaki to Miyano Movie: Sotsugyou-hen,1,8.31,Finished Airing,Fantasy,Studio A,FALSE
+Natsume Yuujinchou Go Specials,2,N/A,Finished Airing,Action,Studio D,FALSE
+Uchuu Senkan Yamato 2199,26,pending,Finished Airing,Fantasy,Studio C,FALSE
+Kawaki wo Ameku,1,N/A,Finished Airing,Drama,Studio C,FALSE
+Major S6,25,not rated,Finished Airing,Romance,Studio C,FALSE
+Romeo no Aoi Sora,33,8.31,Finished Airing,Sci-Fi,Studio B,FALSE
+Gotcha!,1,8.31,Finished Airing,Comedy,Studio B,FALSE
+Shelter (Music),1,8.31,Finished Airing,Horror,Studio A,FALSE
+Hunter x Hunter: Original Video Animation,8,8.31,Finished Airing,Horror,Studio D,FALSE
+NHK ni Youkoso!,24,8.31,Finished Airing,Horror,Studio B,FALSE
+Kingdom 2nd Season,39,8.3,Finished Airing,Comedy,Studio A,FALSE
+Ookami to Koushinryou II,12,8.3,Finished Airing,,Studio A,FALSE
+Luo Xiao Hei Zhan Ji (Movie),1,8.3,Finished Airing,Action,Studio C,FALSE
+Natsume Yuujinchou,,8.3,Finished Airing,Fantasy,Studio A,FALSE
+Diamond no Ace: Second Season,51,pending,Finished Airing,,Studio C,FALSE
+Evangelion Movie 2: Ha,1,8.3,Finished Airing,Horror,Studio C,FALSE
+Boku dake ga Inai Machi,12,8.3,Finished Airing,Horror,Studio B,FALSE
+Doraemon Movie 31: Shin Nobita to Tetsujin Heidan - Habatake Tenshi-tachi,1,8.3,Finished Airing,Romance,Studio C,FALSE
+Tensei shitara Slime Datta Ken 2nd Season Part 2,12,8.3,Finished Airing,Romance,Studio C,FALSE
+Steins;Gate: Oukoubakko no Poriomania,1,8.29,,Comedy,Studio B,FALSE
+Redline,1,8.29,,Action,Studio A,FALSE
+Kemono no Souja Erin,50,8.29,Finished Airing,Action,Studio C,FALSE
+Kuroko no Basket 3rd Season,25,8.29,,Drama,Studio D,FALSE
+Katanagatari,12,8.29,Finished Airing,Horror,Studio A,FALSE
+Initial D Final Stage,4,8.29,Finished Airing,Sci-Fi,Studio B,FALSE
+Sakamichi no Apollon,12,8.29,Finished Airing,Drama,Studio C,FALSE
+Given,11,8.29,Finished Airing,Action,Studio C,FALSE
+Meitantei Conan Movie 06: Baker Street no Bourei,1,TBD,Finished Airing,Drama,Studio C,FALSE
+Beck,26,,Finished Airing,Fantasy,Studio B,FALSE
+Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.,12,8.29,,Comedy,Studio C,FALSE
+Yuukoku no Moriarty Part 2,13,8.29,Finished Airing,Sci-Fi,,FALSE
+Kage no Jitsuryokusha ni Naritakute! 2nd Season,12,8.28,Finished Airing,Romance,Studio C,FALSE
+Major: World Series,2,?,Finished Airing,Drama,Studio B,FALSE
+Ginga Eiyuu Densetsu: Die Neue These - Seiran 3,4,8.28,,Sci-Fi,Studio A,FALSE
+Tokyo Godfathers,1,8.28,Finished Airing,Fantasy,Studio C,FALSE
+Kino no Tabi: The Beautiful World,2045,8.28,Finished Airing,Horror,Studio C,TRUE
+Tanoshii Muumin Ikka,,8.35,Finished Airing,Horror,Studio C,TRUE
+Rurouni Kenshin: Meiji Kenkaku Romantan,94,8.28,Finished Airing,Action,Studio A,TRUE
+Naruto: Shippuuden,500,8.28,Finished Airing,Comedy,Studio A,TRUE
+"Shangri-La Frontier: Kusoge Hunter, Kamige ni Idoman to su 2nd Season",25,,Finished Airing,Comedy,Studio A,FALSE
+Yofukashi no Uta Season 2,12,8.27,Currently Airing,Drama,Studio C,FALSE
+Seishun Buta Yarou wa Santa Claus no Yume wo Minai,13,8.27,Currently Airing,Drama,,FALSE
+Kaijuu 8-gou,12,8.27,Finished Airing,Romance,Studio C,FALSE
+Diamond no Ace: Act II,52,8.27,Finished Airing,Fantasy,Studio D,FALSE
+Gin no Saji 2nd Season,11,8.27,Finished Airing,Comedy,Studio A,FALSE
+Yuru Camp△,12,8.27,Finished Airing,Action,Studio B,FALSE
+Doukyuusei,1,8.35,Finished Airing,Drama,Studio A,FALSE
+Shirobako,24,8.27,Finished Airing,Sci-Fi,Studio D,FALSE
+Fate/Zero,13,8.27,Finished Airing,Comedy,Studio A,FALSE
+Gintama: Shinyaku Benizakura-hen,12,8.27,Finished Airing,Fantasy,Studio C,FALSE
+Koukaku Kidoutai,1,8.27,Finished Airing,Drama,Studio A,FALSE
+Hotarubi no Mori e,12,8.27,Finished Airing,Drama,Studio C,FALSE
+Tenki no Ko,1,terrible,Finished Airing,Horror,Studio B,FALSE
+Steins;Gate: Kyoukaimenjou no Missing Link - Divide By Zero,1,8.35,Finished Airing,Comedy,Studio A,FALSE
+Space☆Dandy 2nd Season,13,8.26,Finished Airing,Action,Studio C,FALSE
+Dororo,24,8.26,Finished Airing,Fantasy,Studio D,FALSE
+Doupo Cangqiong 4th Season,24,8.26,Finished Airing,Comedy,Studio B,FALSE
+Gyakkyou Burai Kaiji: Ultimate Survivor,26,8.26,Finished Airing,Fantasy,Studio C,FALSE
+Tsubasa: Tokyo Revelations,3,8.26,Finished Airing,Horror,Studio D,FALSE
+Tenkuu no Shiro Laputa,1,8.26,Finished Airing,Horror,Studio B,FALSE
+Dr. Stone,24,average,Finished Airing,Comedy,Studio D,FALSE
+Suzume no Tojimari,1,8.26,Finished Airing,Romance,Studio B,FALSE
+Fanren Xiu Xian Chuan: Xinghai Feichi,48,8.25,Finished Airing,Drama,Studio D,FALSE
+Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Shin Shou - Yakusai-hen,11,8.25,Finished Airing,Fantasy,Studio C,FALSE
+Haikyuu!! Movie 4: Concept no Tatakai,1,8.25,Finished Airing,Fantasy,Studio B,FALSE
+Shinsekai yori,,25,8.25,Finished Airing,Fantasy,Studio A,FALSE
+Stranger: Mukou Hadan,,1,8.25,Finished Airing,Comedy,Studio C,FALSE
+Nodame Cantabile,,23,8.25,Finished Airing,Sci-Fi,Studio B,FALSE
+Tonari no Totoro,,1,8.25,Finished Airing,Comedy,Studio B,FALSE
+Hajime no Ippo: Mashiba vs. Kimura,,1,8.25,Finished Airing,Horror,Studio C,FALSE
+Hajime no Ippo: Champion Road,,1,8.25,Finished Airing,Action,Studio D,FALSE
+Hunter x Hunter: Greed Island Final,,14,,Finished Airing,Horror,Studio D,FALSE
+Dr. Stone: Science Future,,12,8.24,Finished Airing,Comedy,Studio C,FALSE
+Ore dake Level Up na Ken,,12,8.24,Finished Airing,Action,Studio A,FALSE
+Golden Kamuy 2nd Season,,12,8.24,Finished Airing,Fantasy,Studio A,FALSE
+Gyakkyou Burai Kaiji: Hakairoku-hen,,26,8.24,Finished Airing,Sci-Fi,Studio B,FALSE
+Non Non Biyori Movie: Vacation,,1,8.24,Finished Airing,Sci-Fi,Studio B,FALSE
+World Trigger 3rd Season,,14,8.24,Finished Airing,Comedy,Studio C,FALSE
+Kono Subarashii Sekai ni Shukufuku wo! 2,,10,8.24,Finished Airing,Sci-Fi,Studio D,FALSE
+Kage no Jitsuryokusha ni Naritakute!,,20,8.24,Finished Airing,Action,Studio B,FALSE
+Sennen Joyuu,,1,8.24,Finished Airing,Fantasy,Studio B,FALSE
+Kuroshitsuji Movie: Book of the Atlantic,,1,avoid,Finished Airing,Horror,Studio A,FALSE
+Planetes,,26,8.24,,Comedy,Studio B,FALSE
+Meitantei Conan: Episode One - Chiisaku Natta Meitantei,,,8.24,Finished Airing,,,FALSE
+Re:Zero kara Hajimeru Isekai Seikatsu,,25,8.24,Finished Airing,Drama,Studio B,FALSE
+BanG Dream! It's MyGO!!!!!,,13,8.23,Finished Airing,Fantasy,Studio B,FALSE
+Wu Liuqi: Anying Suming,2031,,8.23,Finished Airing,Comedy,Studio D,TRUE
+Youjo Senki Movie,,1,excellent,Finished Airing,Action,Studio B,FALSE
+Kamisama Hajimemashita,◎,12,8.23,Finished Airing,Romance,Studio A,FALSE
+Bakemono no Ko,,1,8.23,Finished Airing,Drama,Studio D,FALSE
+Kidou Senshi Gundam: Tekketsu no Orphans 2nd Season,,25,8.23,Finished Airing,Sci-Fi,Studio B,FALSE
+Danshi Koukousei no Nichijou,,12,8.35,Finished Airing,Fantasy,Studio D,FALSE
+Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai,,13,8.23,Finished Airing,Drama,Studio A,FALSE
+Majo no Takkyuubin,,1,8.23,Finished Airing,Action,,FALSE
+IDOLiSH7 Third Beat!,,13,8.23,Finished Airing,Action,Studio B,FALSE
+Shoujo Shuumatsu Ryokou,,12,8.23,Finished Airing,Sci-Fi,Studio C,FALSE
+Shen Yin Wangzuo 2nd Season,182,,8.22,Currently Airing,Action,Studio D,TRUE
+Boku no Kokoro no Yabai Yatsu,,12,8.22,Finished Airing,Horror,Studio D,FALSE
+Liz to Aoi Tori,,1,8.22,Finished Airing,Fantasy,Studio B,FALSE
+Kono Sekai no Katasumi ni,,1,8.22,Finished Airing,Drama,,FALSE
+Uma Musume: Pretty Derby Season 2,,13,8.22,Finished Airing,Romance,Studio D,FALSE
+Nodame Cantabile Finale,,11,8.22,,Comedy,Studio A,FALSE
+MILGЯAM,,12,8.22,Currently Airing,Sci-Fi,Studio B,FALSE
+Wu Liuqi: Zui Qiang Fa Xing Shi,,10,8.22,Finished Airing,Comedy,Studio B,FALSE
+Mahou Shoujo Madoka,★Magica Movie 1: Hajimari no Monogatari1,,8.22,Finished Airing,Comedy,Studio A,FALSE
+Mimi wo Sumaseba,,1,10/10,Finished Airing,Horror,Studio C,FALSE
+Boku no Hero Academia 6th Season,,25,8.22,Finished Airing,Drama,Studio B,FALSE
+Shoujo Kakumei Utena,,39,,,Sci-Fi,Studio B,FALSE
+Kobayashi-san Chi no Maid Dragon S,,,8.22,Finished Airing,Comedy,Studio A,FALSE
+Trigun,26,8.22,Finished Airing,Comedy,Studio A,FALSE
+Dr. Stone: Science Future Part 2,12,8.21,Currently Airing,Action,Studio B,FALSE
+Tengoku Daimakyou,13,8.21,Finished Airing,Romance,Studio C,FALSE
+Mushoku Tensei II: Isekai Ittara Honki Dasu,12,8.21,Finished Airing,Fantasy,Studio C,FALSE
+Berserk: Ougon Jidai-hen III - Kourin,1,8.21,Finished Airing,Comedy,Studio D,FALSE
+Saiki Kusuo no Ψ-nan: Kanketsu-hen,1,8.21,Finished Airing,Romance,Studio A,FALSE
+Ookami to Koushinryou,13,8.21,Finished Airing,Drama,Studio B,FALSE
+ReLIFE: Kanketsu-hen,4,not rated,Finished Airing,Sci-Fi,Studio B,FALSE
+Fruits Basket 1st Season,25,8.35,Finished Airing,Drama,Studio C,FALSE
+Major S3,26,8.21,Finished Airing,Romance,Studio C,FALSE
+Spy x Family Part 2,13,8.21,Finished Airing,Comedy,Studio A,FALSE
+Kaguya-hime no Monogatari,1,5 stars,Finished Airing,Horror,Studio D,FALSE
+Cardcaptor Sakura Movie 2: Fuuin Sareta Card,,8.21,Finished Airing,Fantasy,Studio C,FALSE
+Wu Liuqi: Jiyi Suipian,10,8.2,Finished Airing,Horror,Studio B,FALSE
+Yubisaki to Renren,12,8.35,Finished Airing,Horror,Studio B,FALSE
+Haikyuu!! Movie 3: Sainou to Sense,1,8.2,Finished Airing,Comedy,Studio D,FALSE
+Quanzhi Gaoshou Specials,3,8.2,Finished Airing,Horror,Studio D,FALSE
+Bungou Stray Dogs 3rd Season,12,8.2,Finished Airing,Comedy,Studio D,FALSE
+Meitantei Conan Movie 13: Shikkoku no Chaser,1,N/A,Finished Airing,,Studio B,FALSE
+Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku,13,8.2,Finished Airing,Fantasy,Studio C,FALSE
+InuYasha: Kanketsu-hen,26,8.2,Finished Airing,Sci-Fi,Studio C,FALSE
+Kuroko no Basket 2nd Season,25,terrible,Finished Airing,Sci-Fi,Studio B,FALSE
+xxxHOLiC◆Kei,13,8.2,Finished Airing,Horror,Studio B,FALSE
+Major S1,26,8.2,Finished Airing,Drama,,FALSE
+Great Pretender,23,8.2,Finished Airing,Horror,Studio A,FALSE
+Dragon Ball Z,291,8.2,Finished Airing,Sci-Fi,Studio A,TRUE
+SKET Dance,77,8.2,Finished Airing,,Studio B,TRUE
+Magi: The Kingdom of Magic,25,8.2,Finished Airing,Horror,Studio B,FALSE
+Dragon Ball Super: Broly,1,8.2,Finished Airing,Sci-Fi,Studio A,FALSE
+Ao no Hako,25,8.19,Finished Airing,Romance,Studio D,FALSE
+Girls & Panzer Movie,1,8.19,Finished Airing,Horror,Studio C,FALSE
+Asobi Asobase,12,8.19,Finished Airing,Horror,,FALSE
+Mo Dao Zu Shi Q,30,8.19,Finished Airing,Action,,FALSE
+Stand By Me Doraemon 2,1,8.19,Finished Airing,Action,Studio C,FALSE
+Maison Ikkoku,96,8.19,Finished Airing,Fantasy,Studio C,TRUE
+Senki Zesshou Symphogear XV,13,8.19,Finished Airing,Drama,Studio B,FALSE
+Initial D Second Stage,13,8.19,Finished Airing,Sci-Fi,Studio C,FALSE
+Horimiya,13,8.19,Finished Airing,Fantasy,Studio A,FALSE
+Vanitas no Karte Part 2,,8.19,Finished Airing,Comedy,Studio A,FALSE
+Sasaki to Miyano,,8.19,Finished Airing,Horror,Studio B,FALSE
+Fate/strange Fake: Whispers of Dawn,1,8.18,Finished Airing,Sci-Fi,Studio A,FALSE
+Chihayafuru,12,excellent,Finished Airing,Horror,Studio A,FALSE
+K-On!!,26,8.18,Finished Airing,Romance,Studio D,FALSE
+Fate/stay night: Unlimited Blade Works,12,8.18,Finished Airing,Horror,Studio A,FALSE
+Made in Abyss Movie 1: Tabidachi no Yoake,,8.18,Finished Airing,Fantasy,Studio A,FALSE
+Meitantei Conan Movie 20: Junkoku no Nightmare,1,pending,Finished Airing,Horror,,FALSE
+Nomad: Megalo Box 2,13,8.18,Finished Airing,Comedy,Studio B,FALSE
+Major S4,26,8.18,Finished Airing,Horror,Studio A,FALSE
+xxxHOLiC Rou,2,8.18,Finished Airing,Sci-Fi,Studio A,FALSE
+One Piece: Episode of Merry - Mou Hitori no Nakama no Monogatari,1,8.18,Finished Airing,Comedy,Studio D,FALSE
+Hachimitsu to Clover II,12,8.18,Finished Airing,Romance,,FALSE
+Yi Nian Yong Heng: Chuan Cheng Pian,12,8.18,Finished Airing,Comedy,Studio A,FALSE
+Yojouhan Time Machine Blues,6,8.18,Finished Airing,Sci-Fi,Studio D,FALSE
+Hunter x Hunter: Greed Island,8,8.18,Finished Airing,Romance,Studio C,FALSE
+Non Non Biyori Repeat,12,8.18,Finished Airing,Action,Studio B,FALSE
+One Piece Movie 14: Stampede,1,8.18,Finished Airing,Action,Studio C,FALSE
+Kimetsu no Yaiba: Katanakaji no Sato-hen,11,8.18,Finished Airing,Horror,Studio B,FALSE
+Meitantei Conan,12,10/10,Currently Airing,Comedy,Studio A,FALSE
+Ballroom e Youkoso,24,8.18,,Romance,Studio B,FALSE
+Cardcaptor Sakura,70,8.18,Finished Airing,Fantasy,Studio B,TRUE
+Kono Subarashii Sekai ni Shukufuku wo! 3: Bonus Stage,2,8.17,Finished Airing,Romance,Studio B,FALSE
+Kuroshitsuji: Midori no Majo-hen,13,8.17,Finished Airing,Fantasy,Studio C,FALSE
+Cang Yuan Tu,26,unknown,Finished Airing,Action,Studio C,FALSE
+Yoru wa Mijikashi Arukeyo Otome,1,8.17,Finished Airing,Horror,Studio A,FALSE
+Ginga Eiyuu Densetsu: Die Neue These - Seiran 2,4,8.17,Finished Airing,Drama,Studio D,FALSE
+Bungou Stray Dogs 2nd Season,12,8.17,Finished Airing,Comedy,Studio C,FALSE
+No Game No Life: Zero,1,,Finished Airing,Drama,Studio D,FALSE
+Girls & Panzer: Saishuushou Part 3,1,8.17,Finished Airing,Romance,Studio D,FALSE
+"Kamisama Hajimemashita: Kamisama, Shiawase ni Naru",1,8.17,Finished Airing,Horror,Studio B,FALSE
+Tengen Toppa Gurren Lagann Movie 1: Gurren-hen,1,excellent,Finished Airing,Romance,Studio C,FALSE
+Little Busters! Refrain,13,8.17,Finished Airing,Action,Studio D,FALSE
+Bakuman.,25,8.17,Finished Airing,Fantasy,Studio A,FALSE
+Digimon Adventure: Last Evolution Kizuna,1,8.17,Finished Airing,Horror,Studio B,FALSE
+Black Lagoon: The Second Barrage,12,8.17,Finished Airing,Sci-Fi,Studio A,FALSE
+Yuukoku no Moriarty,11,8.35,Finished Airing,Action,Studio C,FALSE
+Blue Lock,24,8.17,Finished Airing,Horror,Studio A,FALSE
+Major S2,26,8.17,Finished Airing,Action,Studio C,FALSE
+Natsume Yuujinchou: Ishi Okoshi to Ayashiki Raihousha,1,8.17,Finished Airing,Fantasy,Studio A,FALSE
+Initial D Fourth Stage,24,8.17,Finished Airing,Sci-Fi,Studio C,FALSE
+Yi Nian Yong Heng 3rd Season,59,excellent,Finished Airing,Drama,Studio B,TRUE
+Hikaru ga Shinda Natsu,12,8.16,Currently Airing,Fantasy,Studio A,FALSE
+Aria the Natural,26,8.16,Finished Airing,Drama,Studio D,FALSE
+Ouran Koukou Host Club,,average,Finished Airing,Horror,Studio C,FALSE
+Higurashi no Naku Koro ni Kai,24,8.16,Finished Airing,Comedy,Studio D,FALSE
+Ao Ashi,24,8.16,Finished Airing,Sci-Fi,Studio D,FALSE
+Kotarou wa Hitorigurashi,10,10/10,Finished Airing,Sci-Fi,Studio D,FALSE
+Akira,1,avoid,Finished Airing,Romance,Studio D,FALSE
+Mononoke Movie: Dai-2 Shou - Hinezumi,1,8.15,Finished Airing,Sci-Fi,Studio D,FALSE
+Holo no Graffiti,12,8.15,Currently Airing,Comedy,Studio B,FALSE
+Lupin III: Cagliostro no Shiro,1,8.15,Finished Airing,Comedy,Studio C,FALSE
+Fate/stay night Movie: Heaven's Feel - I. Presage Flower,1,8.15,Finished Airing,Drama,Studio A,FALSE
+Dr. Stone: New World,11,8.15,Finished Airing,Drama,Studio A,FALSE
+Non Non Biyori Nonstop: Bukatsu wo Ganbatta,1,good,Finished Airing,Horror,Studio B,FALSE
+Dr. Stone: Stone Wars,11,8.15,Finished Airing,Horror,Studio B,FALSE
+Lycoris Recoil,13,terrible,Finished Airing,Fantasy,Studio A,FALSE
+Fanren Xiu Xian Chuan: Waihai Fengyun,52,8.14,Currently Airing,Fantasy,Studio D,FALSE
+Horimiya: Piece,13,8.14,Finished Airing,Fantasy,Studio D,FALSE
+Toaru Kagaku no Railgun T,25,8.14,Finished Airing,Drama,Studio B,FALSE
+Kyoukai no Kanata Movie 2: I'll Be Here - Mirai-hen,1,8.14,Finished Airing,Action,Studio D,FALSE
+Ginga Eiyuu Densetsu Gaiden,24,8.14,Finished Airing,Drama,,FALSE
+Kaiba,12,8.14,Finished Airing,Sci-Fi,Studio D,FALSE
+Noragami Aragoto,13,8.14,Finished Airing,Romance,Studio D,FALSE
+Princess Tutu,38,8.14,Finished Airing,Horror,Studio A,FALSE
+Black Clover,170,8.14,Finished Airing,Sci-Fi,Studio C,TRUE
+Sono Bisque Doll wa Koi wo Suru,12,8.14,Finished Airing,Romance,Studio D,FALSE
